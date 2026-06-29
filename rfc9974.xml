@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rfc xmlns:xi="http://www.w3.org/2001/XInclude" version="3" category="info" ipr="trust200902" docName="draft-ietf-bier-oam-requirements-21" number="9974" consensus="true" obsoletes="" updates="" submissionType="IETF" xml:lang="en" tocInclude="true" tocDepth="3" symRefs="true" sortRefs="true" prepTime="2026-06-29T21:56:41" indexInclude="true" scripts="Common,Latin">
+<rfc xmlns:xi="http://www.w3.org/2001/XInclude" version="3" category="info" ipr="trust200902" docName="draft-ietf-bier-oam-requirements-21" number="9974" consensus="true" obsoletes="" updates="" submissionType="IETF" xml:lang="en" tocInclude="true" tocDepth="3" symRefs="true" sortRefs="true" prepTime="2026-06-29T23:37:14" indexInclude="true" scripts="Common,Latin">
   <link href="https://datatracker.ietf.org/doc/draft-ietf-bier-oam-requirements-21" rel="prev"/>
   <link href="https://dx.doi.org/10.17487/rfc9974" rel="alternate"/>
   <link href="urn:issn:2070-1721" rel="alternate"/>
@@ -24,7 +24,7 @@
         <email>mach.chen@huawei.com</email>
       </address>
     </author>
-    <author initials="S" surname="Pallagatti" fullname="Santosh Pallagatti" role="editor">
+    <author initials="S." surname="Pallagatti" fullname="Santosh Pallagatti" role="editor">
       <organization showOnFrontPage="true">VMware</organization>
       <address>
         <email>santosh.pallagatti@gmail.com</email>
@@ -733,7 +733,7 @@ transmitted to the sender of the echo request. Therefore, the following security
           <email>mach.chen@huawei.com</email>
         </address>
       </author>
-      <author initials="S" surname="Pallagatti" fullname="Santosh Pallagatti" role="editor">
+      <author initials="S." surname="Pallagatti" fullname="Santosh Pallagatti" role="editor">
         <organization showOnFrontPage="true">VMware</organization>
         <address>
           <email>santosh.pallagatti@gmail.com</email>
